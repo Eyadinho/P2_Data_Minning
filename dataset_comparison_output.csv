@@ -1,0 +1,4 @@
+Dataset,Rows Used,Features Used,RMSE,MAE,R2
+fifa_players.csv,17954,14,0.322,0.142,0.998
+FIFA-Players-Dataset.csv,16155,8,0.464,0.172,0.996
+FIFA-PLAYER-DATA-SET&SEASON-STATS.csv,28436,8,0.273,0.109,0.998

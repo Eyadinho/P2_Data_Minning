@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2
+Linear Regression,0.0,0.0,1.0
+Ridge Regression,0.0,0.0,1.0
+KNN Regression,0.73,0.481,0.99
+Random Forest,0.464,0.172,0.996
